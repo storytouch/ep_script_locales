@@ -1,0 +1,20 @@
+{
+  "description": "Provide customized translations for Etherpad's core messages",
+  "name": "ep_script_locales",
+  "version": "0.0.1",
+  "author": {
+    "name": "Luiza Pagliari",
+    "email": "lpagliari@gmail.com"
+  },
+  "dependencies": {
+    },
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://github.com/storytouch/ep_script_locales",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/storytouch/ep_script_locales.git"
+  }
+}

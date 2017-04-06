@@ -1,0 +1,22 @@
+{
+  "index.newPad": "New Script",
+  "index.createOpenPad": "or create/open a Script with the name:",
+  "pad.toolbar.embed.title": "Share and Embed this script",
+  "pad.toolbar.showusers.title": "Show the users on this script",
+  "pad.passwordRequired": "You need a password to access this script",
+  "pad.permissionDenied": "You do not have permission to access this script",
+  "pad.settings.padSettings": "Script Settings",
+  "pad.importExport.export": "Export current script as:",
+  "pad.modals.reconnecting": "Reconnecting to your script..",
+  "pad.modals.userdup.explanation": "This script seems to be opened in more than one browser window on this computer.",
+  "pad.modals.corruptPad.explanation": "The script you are trying to access is corrupt.",
+  "pad.modals.deleted.explanation": "This script has been removed.",
+  "pad.share": "Share this script",
+  "pad.chat.title": "Open the chat for this script.",
+  "timeslider.toolbar.returnbutton": "Return to script",
+  "timeslider.playPause": "Playback / Pause Script Contents",
+  "timeslider.backRevision":"Go back a revision in this Script",
+  "timeslider.forwardRevision":"Go forward a revision in this Script",
+  "pad.impexp.confirmimport": "Importing a file will overwrite the current text of the script. Are you sure you want to proceed?",
+  "pad.impexp.padHasData": "We were not able to import this file because this script has already had changes, please import to a new script"
+}
