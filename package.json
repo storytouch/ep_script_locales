@@ -6,8 +6,7 @@
     "name": "Luiza Pagliari",
     "email": "lpagliari@gmail.com"
   },
-  "dependencies": {
-    },
+  "dependencies": {},
   "engines": {
     "node": "*"
   },
